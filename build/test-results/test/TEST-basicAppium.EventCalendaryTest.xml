@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="basicAppium.EventCalendaryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-30T20:03:48" hostname="PRISET" time="21.627">
-  <properties/>
-  <testcase name="verifyCreateEvent()" classname="basicAppium.EventCalendaryTest" time="21.627"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
