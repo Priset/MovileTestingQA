@@ -19,12 +19,12 @@ public class Android implements IDevice{
         //capabilities.setCapability("appActivity","com.android.calculator2.Calculator");
 
         //Aplicion de notas
-        //capabilities.setCapability("appPackage","com.notas.controlador");
-        //capabilities.setCapability("appActivity","com.notas.controlador.ActivityNotas");
+        capabilities.setCapability("appPackage","com.notas.controlador");
+        capabilities.setCapability("appActivity","com.notas.controlador.ActivityNotas");
 
         //Aplicacion de cronometro
-        capabilities.setCapability("appPackage","com.google.android.deskclock");
-        capabilities.setCapability("appActivity","com.android.deskclock.DeskClock");
+        //capabilities.setCapability("appPackage","com.google.android.deskclock");
+        //capabilities.setCapability("appActivity","com.android.deskclock.DeskClock");
 
         capabilities.setCapability("platformName","Android");
         capabilities.setCapability("automationName","uiautomator2");
